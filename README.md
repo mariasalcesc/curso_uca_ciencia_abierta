@@ -5,8 +5,8 @@ A través de este repositorio se evaluarán los conocimientos de la primera part
 
 Este repositorio contiene:
 
-*data*: original data, processed data y metadata
-*code*
-*plot* 
+- data: original data, processed data y metadata
+- code
+- plot
 
 El objetivo del ejercicio es analizar si la duración de los hits de spotify ha disminuido entre los años 2010 a 2019. 
