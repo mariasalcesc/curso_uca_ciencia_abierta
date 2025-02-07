@@ -19,3 +19,7 @@ plot(dur ~ year, data = data)
 reg <- lm(dur ~ year, data = data)
 abline(reg)
 summary(reg)
+
+# Duración media de las canciones 2010-2019
+mean_dur_year <- aggregate (dur ~ year , data = data, FUN = mean)
+mean_dur_year
