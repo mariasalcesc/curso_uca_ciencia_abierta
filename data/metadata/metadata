@@ -1,0 +1,31 @@
+Ejercicio UCA Curso Ciencia abierta
+
+María Salces
+
+ABSTRACT
+--
+
+KEYWORD
+--
+
+DATA TABLE
+- Data table name: top10s.csv
+- Description: Spotify hits data from 2010 to 2019
+- Number of columns: 15
+
+  Table Column Description
+  - id
+  - title
+  - artist
+  - top_genre
+  - year
+  - bpm
+  - nrgy
+  - dnce
+  - dB
+  - live
+  - val
+  - dur: duration in seconds
+  - acous
+  - spch
+  - pop
