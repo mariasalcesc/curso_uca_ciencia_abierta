@@ -15,6 +15,7 @@ editor_options:
   chunk_output_type: console
 ---
 
+
 ```{r setup, include = FALSE}
 
 knitr::opts_chunk$set(echo = FALSE)
@@ -72,3 +73,7 @@ mean_dur_year
 ```
 
 Se observa en el gráfico una tendencia descendiente en la duración de los hits, por tanto, a lo largo de los años 2010-2019 se ha producido una disminución en la duración de las canciones con mayor éxito de Spotify. En 2010, los hits tenían una duración media de 229,80 segundos, mientras que en 2019 pasaron a tener una duración media de 200,65 segundos. 
+
+
+You can find data, metadata, and plot at the following DOI: 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14831460.svg)](https://doi.org/10.5281/zenodo.14831460)
