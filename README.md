@@ -8,5 +8,6 @@ Este repositorio contiene:
 - data: original data, processed data y metadata
 - code
 - plot
+- RMarkdown con el informe del ejercicio
 
 El objetivo del ejercicio es analizar si la duración de los hits de spotify ha disminuido entre los años 2010 a 2019. 
